@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/Dactilo/spring-spreadsheet.svg?branch=master)](https://travis-ci.org/Dactilo/spring-spreadsheet)
-
-# Dactilo spring-spreadsheet 
+# Spring-spreadsheet 
 This component will allow your spring-web controllers 
 to produce CSV or Microsoft Excel instead of JSON files without writing any code.
 
